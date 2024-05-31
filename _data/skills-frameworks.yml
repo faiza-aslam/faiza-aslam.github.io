@@ -1,0 +1,45 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Spring Boot
+  weight: 5
+
+- name: Micronaut
+  weight: 2
+
+- name: JavaEE
+  weight: 3
+
+- name: EJBs
+  weight: 3
+
+- name: Apache Kafka
+  weight: 2
+
+- name: ActiveMQ
+  weight: 3
+
+- name: Redis
+  weight: 3
+
+- name: Nginx
+  weight: 3
+
+- name: MySQL
+  weight: 3
+
+- name: PostgreSQL
+  weight: 3
+
+- name: Spring
+  weight: 2
+
+- name: Microservices
+  weight: 3
+
+- name: Oracle
+  weight: 3

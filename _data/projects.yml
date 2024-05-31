@@ -1,0 +1,51 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Financial Planning & Forecasting
+  descr: "Financial planning tool that guides users through the process. Track key metrics like runway, burn rate, revenue, expenses, and payroll in real time—all from a single dashboard."
+  demo: https://example.com/
+  tags:
+    - tag: Java
+    - tag: Kotlin
+    - tag: Spring boot
+    - tag: Micronaut
+    - tag: React
+    - tag: PostgresSQL
+    - tag: Docker
+    - tag: AWS
+    - tag: Jenkins
+    - tag: GraphQL
+
+- name: Tez Financial Services
+  descr: "Deals with money disburements & repayments"
+  demo: https://example.com/
+  tags:
+    - tag: Java
+    - tag: Spring boot
+    - tag: JavaEE
+    - tag: WildFly
+    - tag: Drools
+    - tag: Keycloak
+    - tag: MySQL
+
+- name: Higher Education Commission (HEC) Pakistan
+  descr: "Developed different processes for HEC process automation"
+  demo: https://example.com/
+  tags:
+    - tag: Java
+    - tag: Spring boot
+    - tag: IBM BPM
+    - tag: IBM Websphere
+    - tag: Oracle
